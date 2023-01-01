@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Recoleta", "GT Walsheim Pro";
+    src: url(./Assets/Recoleta/), url(./Assets/GT\ Walsheim\ Pro/);
+}
+
 body {
     font-family: "Recoleta", "GT Walsheim Pro", sans-serif;
     background: #F7FBFE;
