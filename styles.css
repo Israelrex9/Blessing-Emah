@@ -97,6 +97,7 @@ button{
     background: #112888;
     color: white;
     border: 0;
+    cursor: pointer;
 }
 button:hover{
     color: white;
