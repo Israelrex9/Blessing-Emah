@@ -110,7 +110,8 @@ button:hover{
     display: none;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1250px) {
+    /* Tablet View */
     #navbar {
         display: flex;
         flex-direction: row;
@@ -149,7 +150,7 @@ button:hover{
     }
     h1{
         font-family: Recoleta;
-        font-size: 72px;
+        font-size: 60px;
         font-weight: 500;
         line-height: 72px;
         letter-spacing: 0em;
