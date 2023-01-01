@@ -1,6 +1,12 @@
 @font-face {
-    font-family: "Recoleta", "GT Walsheim Pro";
-    src: url(./Assets/Recoleta/), url(./Assets/GT\ Walsheim\ Pro/);
+    font-family: "Recoleta";
+    src: url(./Assets/Recoleta/Recoleta-Bold.ttf) format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "GT Walsheim Pro";
+    src: url(./Assets/GTWalsheimPro/GTWalsheimPro-Light.ttf) format('truetype');
+    font-weight: 350;
 }
 
 body {
@@ -59,8 +65,8 @@ a:hover{
 }
 h1{
     font-family: Recoleta;
-    font-size: 90px;
-    font-weight: 500;
+    font-size: 85px;
+    font-weight: bold;
     line-height: 90px;
     letter-spacing: 0em;
     text-align: left;
