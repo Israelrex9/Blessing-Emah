@@ -187,7 +187,7 @@ button:hover{
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 430px) {
     /* Mobile View */
     #navbar {
         display: flex;
