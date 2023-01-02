@@ -50,11 +50,9 @@ a.current-page {
 ul li a{
     color:#2D2C2C;
 }
-a:hover{
+li a:hover{
     color: #112888;
 }
-
-
 #home-content{
     display: flex;
     margin-top: 90px;
@@ -82,6 +80,9 @@ p{
     text-align: left;
     color: #2D2C2C;
     width: 615px;
+}
+button a{
+    color: white;
 }
 button{
     height: 69px;
